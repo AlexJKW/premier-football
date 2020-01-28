@@ -1,2 +1,2 @@
-# premier-football
-A simple football management and simulation game.
+# Premier Football
+My first game from scratch. Everything is currently developmental, there may be bugs or errors within the code.
